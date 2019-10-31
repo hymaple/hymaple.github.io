@@ -1,0 +1,26 @@
+div{
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+#calendar{
+	width: 400px;
+	margin:auto;
+}
+
+button{
+	width: 25%;
+	float:left;
+	height:40px;
+}
+
+#month{
+    width: 50%;
+	float:left;
+}
+
+.everyday{
+	width: 14%;
+	float:left;
+}

@@ -1,0 +1,24 @@
+/*电子时钟总体样式设置*/
+#clock {
+    width: 800px;
+    font-size: 80px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    margin: 20px;
+}
+/*时分秒数字区域的样式设置*/
+.box1 {
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    float: left;
+    border: gray 1px solid;
+}
+/*冒号区域的样式设置*/
+.box2 {
+    width: 30px;
+    float: left;
+    margin-right: 10px;
+}
